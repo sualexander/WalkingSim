@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DlgSystemEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Intermediate\Build\Win64\x64\DialogueExperimentEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Plugins\DlgSystem-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\DlgSystemEditor\Module.DlgSystemEditor.1_of_3.cpp.obj"
+"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Plugins\DlgSystem-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\DlgSystemEditor\Module.DlgSystemEditor.2_of_3.cpp.obj"
+"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Plugins\DlgSystem-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\DlgSystemEditor\Module.DlgSystemEditor.3_of_3.cpp.obj"
+"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Plugins\DlgSystem-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\DlgSystemEditor\Default.rc2.res"
+/OUT:"C:\Users\Stumpy\Desktop\DialogueExperiments\DialogueExperiment\Plugins\DlgSystem-master\Intermediate\Build\Win64\x64\UnrealEditor\Development\DlgSystemEditor\UnrealEditor-DlgSystemEditor.lib"
