@@ -45,12 +45,12 @@
 			"DlgEvent.cpp.obj",
 			"DlgHelper.cpp.obj",
 			"DlgLocalizationHelper.cpp.obj",
-			"DlgManager.cpp.obj",
-			"DlgMemory.cpp.obj",
-			"DlgObject.cpp.obj",
-			"DlgSystemModule.cpp.obj"
+			"DlgManager.cpp.obj"
 		],
 		"Module.DlgSystem.5_of_5.cpp.obj": [
+			"DlgMemory.cpp.obj",
+			"DlgObject.cpp.obj",
+			"DlgSystemModule.cpp.obj",
 			"DlgSystemSettings.cpp.obj",
 			"DlgTextArgument.cpp.obj",
 			"DlgDataDisplayTreeNode.cpp.obj",

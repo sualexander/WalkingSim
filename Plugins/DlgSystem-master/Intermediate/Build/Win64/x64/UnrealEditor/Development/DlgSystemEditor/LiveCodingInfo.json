@@ -76,11 +76,11 @@
 			"DlgConvertSpeechSequenceNodeToSpeechNodes_GraphSchemaAction.cpp.obj",
 			"DlgNewComment_GraphSchemaAction.cpp.obj",
 			"DlgNewNode_GraphSchemaAction.cpp.obj",
-			"DialogueGraphNode.cpp.obj",
-			"DialogueGraphNode_Base.cpp.obj",
-			"DialogueGraphNode_Edge.cpp.obj"
+			"DialogueGraphNode.cpp.obj"
 		],
 		"Module.DlgSystemEditor.3_of_3.cpp.obj": [
+			"DialogueGraphNode_Base.cpp.obj",
+			"DialogueGraphNode_Edge.cpp.obj",
 			"DialogueGraphNode_Root.cpp.obj",
 			"SDlgGraphNode.cpp.obj",
 			"SDlgGraphNode_Base.cpp.obj",
