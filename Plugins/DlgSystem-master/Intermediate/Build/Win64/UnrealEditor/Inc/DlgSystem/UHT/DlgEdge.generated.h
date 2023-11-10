@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define DLGSYSTEM_DlgEdge_generated_h
 
-#define FID_Users_Stumpy_Desktop_DialogueExperiments_DialogueExperiment_Plugins_DlgSystem_master_Source_DlgSystem_DlgEdge_h_24_GENERATED_BODY \
+#define FID_Users_kebul_OneDrive_Documents_GitHub_WalkingSim_Plugins_DlgSystem_master_Source_DlgSystem_DlgEdge_h_24_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FDlgEdge_Statics; \
 	static class UScriptStruct* StaticStruct();
 
@@ -22,7 +22,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> DLGSYSTEM_API UScriptStruct* StaticStruct<struct FDlgEdge>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Stumpy_Desktop_DialogueExperiments_DialogueExperiment_Plugins_DlgSystem_master_Source_DlgSystem_DlgEdge_h
+#define CURRENT_FILE_ID FID_Users_kebul_OneDrive_Documents_GitHub_WalkingSim_Plugins_DlgSystem_master_Source_DlgSystem_DlgEdge_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
